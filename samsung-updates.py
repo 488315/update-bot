@@ -54,6 +54,8 @@ models = {
     "SM-F956U": ["ATT"],
     "SM-F956U1": ["ATT"],
     "SM-F956W": ["BMC"],
+    # Galaxy Tab S9 Series
+    "SM-X710": ["XAR"]
 }
 
 # JSON file with known updates
